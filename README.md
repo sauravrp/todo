@@ -1,5 +1,7 @@
 # todo (android application)
+
 Todo list - interview question
+
 Allow user to add tasks, ability check that task, preserver checked status on rotation.
 
 Screenshots
